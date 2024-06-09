@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SpanishCh1cken
+- 👀 I’m interested in web design and game development.
+- 🌱 I’m currently learning Unity game engine.
+- 😄 Pronouns: he/him
