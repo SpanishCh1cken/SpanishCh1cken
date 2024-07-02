@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @farooked
 - 👀 I’m interested in web design and game development.
 - 🌱 I’m currently learning Unity game engine.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: clown/clounster
